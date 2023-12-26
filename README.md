@@ -7,6 +7,7 @@ A collection of Python solutions to various coding challenges.
 ## Table of Contents
 
 - Introduction
+- How to Use
 - Contributing
 - License
 
@@ -50,7 +51,7 @@ There are two ways to run the Python solutions:
 
 ## Contributing
 
-If you'd like to contribute by adding new solutions, fixing issues, or improving existing code, Feel free to contribute problem and solutions.
+If you'd like to contribute by adding new solutions, fixing issues, or improving existing code, Feel free to contribute problems and solutions.
 
 ## License
 
