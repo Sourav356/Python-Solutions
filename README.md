@@ -14,7 +14,7 @@ A collection of Python solutions to various coding challenges.
 ## Introduction
 
 This repository contains Python solutions to a variety of coding challenges. Each solution is self-contained and addresses a specific problem.
-Feel free to explore the `problems` directory for individual problem solutions.
+Feel free to explore the `repository` for individual problem solutions.
 
 ## How to Use
 
@@ -25,7 +25,7 @@ There are two ways to run the Python solutions:
 ### Option 1: Copy and Paste
 
 
-1. Go to the `problems` directory.
+1. Go to the `repository`.
 2. Open the desired Python file in your preferred IDE.
 3. Copy the code and paste it into your Python IDE.
 4. Hit the run button to see the output.
@@ -43,7 +43,7 @@ There are two ways to run the Python solutions:
     ```
 
 
-4. Navigate to the `problems` directory.
+4. Navigate to the `repository`.
 5. Open the desired Python file in your preferred IDE.
 6. Run the code and observe the expected output.
 
